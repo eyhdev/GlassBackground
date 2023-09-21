@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D4B35ED32ABB456D00B53C3C /* TransparentBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B35ED22ABB456D00B53C3C /* TransparentBlur.swift */; };
 		D4C2C6AC2ABB228A002A34E4 /* GlassBackgroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C2C6AB2ABB228A002A34E4 /* GlassBackgroundApp.swift */; };
 		D4C2C6AE2ABB228A002A34E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C2C6AD2ABB228A002A34E4 /* ContentView.swift */; };
 		D4C2C6B02ABB228C002A34E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4C2C6AF2ABB228C002A34E4 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D4B35ED22ABB456D00B53C3C /* TransparentBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransparentBlur.swift; sourceTree = "<group>"; };
 		D4C2C6A82ABB228A002A34E4 /* GlassBackground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlassBackground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4C2C6AB2ABB228A002A34E4 /* GlassBackgroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassBackgroundApp.swift; sourceTree = "<group>"; };
 		D4C2C6AD2ABB228A002A34E4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				D4C2C6AB2ABB228A002A34E4 /* GlassBackgroundApp.swift */,
+				D4B35ED22ABB456D00B53C3C /* TransparentBlur.swift */,
 				D4C2C6AD2ABB228A002A34E4 /* ContentView.swift */,
 				D4C2C6AF2ABB228C002A34E4 /* Assets.xcassets */,
 				D4C2C6B12ABB228C002A34E4 /* Preview Content */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4B35ED32ABB456D00B53C3C /* TransparentBlur.swift in Sources */,
 				D4C2C6AE2ABB228A002A34E4 /* ContentView.swift in Sources */,
 				D4C2C6AC2ABB228A002A34E4 /* GlassBackgroundApp.swift in Sources */,
 			);
